@@ -1,0 +1,21 @@
+\select@language {brazil}
+\contentsline {section}{\numberline {1}INTRODU\IeC {\c C}\IeC {\~A}O}{7}{section.1}
+\contentsline {section}{\numberline {2}REFERENCIAL TE\IeC {\'O}RICO}{8}{section.2}
+\contentsline {subsection}{\numberline {2.1}O que \IeC {\'e} algoritmo gen\IeC {\'e}tico?}{8}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}Caracter\IeC {\'\i }sticas}{8}{subsubsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.2}Aplica\IeC {\c c}\IeC {\~o}es}{9}{subsubsection.2.1.2}
+\contentsline {subsubsection}{\numberline {2.1.3}Popula\IeC {\c c}\IeC {\~a}o e o Indiv\IeC {\'\i }duo}{9}{subsubsection.2.1.3}
+\contentsline {subsubsection}{\numberline {2.1.4}Aptid\IeC {\~a}o ou Fitness e Elitismo}{9}{subsubsection.2.1.4}
+\contentsline {subsubsection}{\numberline {2.1.5}Sele\IeC {\c c}\IeC {\~a}o}{10}{subsubsection.2.1.5}
+\contentsline {subsubsection}{\numberline {2.1.6}Crossover \& Muta\IeC {\c c}\IeC {\~a}o}{10}{subsubsection.2.1.6}
+\contentsline {subsection}{\numberline {2.2}N-rainhas (ou 8 rainhas)}{11}{subsection.2.2}
+\contentsline {section}{\numberline {3}METODOLOGIA}{11}{section.3}
+\contentsline {subsection}{\numberline {3.1}Implementa\IeC {\c c}\IeC {\~a}o}{11}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Pacotes \& Classes}{12}{subsection.3.2}
+\contentsline {section}{\numberline {4}CONCLUS\IeC {\~A}O}{13}{section.4}
+\contentsline {subsection}{\numberline {4.1}Resultados Obtidos}{13}{subsection.4.1}
+\contentsline {subsubsection}{\numberline {4.1.1}Varia\IeC {\c c}\IeC {\~a}o de Popula\IeC {\c c}\IeC {\~a}o}{13}{subsubsection.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.2}Varia\IeC {\c c}\IeC {\~a}o do Crossover}{15}{subsubsection.4.1.2}
+\contentsline {subsubsection}{\numberline {4.1.3}Varia\IeC {\c c}\IeC {\~a}o da Muta\IeC {\c c}\IeC {\~a}o}{16}{subsubsection.4.1.3}
+\contentsline {subsection}{\numberline {4.2}Considera\IeC {\c c}\IeC {\~o}es finais}{18}{subsection.4.2}
+\contentsline {section}{REFER\IeC {\^E}NCIAS}{19}{subsection.4.2}

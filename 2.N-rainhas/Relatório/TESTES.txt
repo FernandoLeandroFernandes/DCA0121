@@ -1,0 +1,30 @@
+Config 1
+8
+90%
+2%
+5000
+100
+
+Config 2 VARIA POPULAÇÃO
+8 
+90%
+2%
+5000
+400
+
+Config 3 VARIA CROSSOVER
+8
+50%
+2%
+5000
+100
+
+Config 4 VARIA MUTAÇÃO
+8
+90%
+MUTAÇÃO
+5000
+POPULAÇÃO
+
+aumento da população com mesma mutação melhora resultado
+aumento da utação com mesma população melhora resultado
